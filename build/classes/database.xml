@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : database.xml
+    Author     : tsuyu
+    Description:
+        Purpose of the document follows.
+-->
+
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>jasperreport</comment>
+<entry key="HOST">127.0.0.1</entry>
+<entry key="PORT">3306</entry>
+<entry key="DATABASE">sakila</entry>
+<entry key="USER">root</entry>
+<entry key="PASSWORD">123456</entry>
+</properties>
